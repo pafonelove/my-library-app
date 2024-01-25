@@ -9,7 +9,7 @@
  6. Java (optional, for backend).
  
  ## Build Project:
- 1. Download from GitHub: https://github.com/pafonelove/DockerBuilderApp
+ 1. Download from GitHub: https://github.com/pafonelove/my-library-app
  2. For Windows: run build.bat file
 	For Linux: run build.sh script
  3. Wait while Docker will create container for application.
@@ -36,7 +36,7 @@
  6. Java (опционально, для backend).
  
  ## Сборка проекта:
- 1. Скачать с GitHub: https://github.com/pafonelove/DockerBuilderApp
+ 1. Скачать с GitHub: https://github.com/pafonelove/my-library-app
  2. Для Windows: запустить файл build.bat
 	Для Linux: запустить скрипт build.sh
  3. Дождаться, пока Docker создаст контейнер для приложения.
